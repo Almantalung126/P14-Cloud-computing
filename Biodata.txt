@@ -1,2 +1,4 @@
-Nama : Albertus Alman Talung
-NIM  : 21101141
+Nama        : Albertus Alman Talung
+NIM         : 21101141
+Mata Kuliah : Cloud Computing
+Jam Kuliah  : 19:50 - 22:00 WITA
